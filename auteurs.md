@@ -2,13 +2,15 @@
 # Travaux Pratique 1
  
 ## 2023-06-06
-###  Maxime Dubois
 ### Tenekeu Tene Thomas
+###  Maxime Dubois
 
 #### Dans le cadre de **INSTALLATION DES SERVEURS ET DES SERVICES** le professeur nous a demandé 
 #### d'expliquer la procédure pour installer un serveur.
+
 ## Sites de référence:
 ##### https://lecrabeinfo.net/installer-ubuntu-22-04-lts-le-guide-complet.html
+#### https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour#:~:text=Sous%20Kubuntu%20%3A%20Applications%E2%86%92Syst%C3%A8me,%2Dmanager%20%C2%BB%20depuis%20un%20terminal.
 
 # Etapes d'installation d'un serveur
 
@@ -74,3 +76,10 @@
 #### Mettre à jour les système avec les commandes:
 #### sudo apt update
 #### sudo apt upgrade
+
+#### verifier les partitions avec la commande avec la commande: df -h
+#### Vérifier la version d'ubuntu avec la commande: lsb_release -a
+#### Vérifier l'état du système: systemctl avec la commande: status
+#### Vérifier l'utilisation des ressources avec la commande: top
+#### Vérifier les connexions réseau actives avec la commande: netstat -tuln
+#### Vérifier l'interface réseau avec la commande: ip addr show
