@@ -19,7 +19,7 @@
 
 #### - Dossier dans vSphere : DFC DS/VM DFC/E23_4371_420W45_ISS_CR/
 ##### - Nom hostname
-##### - Un utilisateur avec pour nom d'utilisateur: 2292644@csfoy.ca
+##### - Un utilisateur avec pour nom d'utilisateur: 'nomDeVotreChoix'
 ##### - Un port HTTP : 80 HTTPS : 443
 ##### - CPU: 2
 #### - Storage (disque vSphere) : ESXDFC2
