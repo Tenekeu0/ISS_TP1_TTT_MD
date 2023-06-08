@@ -9,31 +9,27 @@
 #### d'expliquer la procédure pour installer un serveur.
 
 ## Sites de référence:
-##### https://lecrabeinfo.net/installer-ubuntu-22-04-lts-le-guide-complet.html
 #### https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour#:~:text=Sous%20Kubuntu%20%3A%20Applications%E2%86%92Syst%C3%A8me,%2Dmanager%20%C2%BB%20depuis%20un%20terminal.
 ##### https://github.com/claude-roy/420-W45-SF_4371/blob/main/Exercices/Exercice02_InstallationServeur.md
 
 # Etapes d'installation d'un serveur
 
-## Caractérisation de la machine serveur ::
+## Caractérisation de la machine serveur :
 
 #### - Dossier dans vSphere : DFC DS/VM DFC/E23_4371_420W45_ISS_CR/
 ##### - Nom hostname
 ##### - Un utilisateur avec pour nom d'utilisateur: 'nomDeVotreChoix'
 ##### - Un port HTTP : 80 HTTPS : 443
 ##### - CPU: 2
-#### - Storage (disque vSphere) : ESXDFC2
+##### - Storage (disque vSphere) : ESXDFC2
 ##### - Mémoire 2 Go
 ##### - Disque dur : 2 disques, 20 Go chacun en **partitionnement dynamique (Thin provision)**
 ##### - Carte réseau : VM DFC2 (réseau 10.100.2.0)
 ##### - CD/DVD : ISO ubuntu-22.04-live-server-amd64.iso
 
-## Les mises à jour préalables à l'installation et ajout de composants nécessaires
-
 ### Une fois la VM créée, lancez la VM et installez le serveur Ubuntu selon les spécifications suivantes :
 
 ##### Pour vous déplacer dans les fenêtres, utiliser votre touche tabulation. Pour sélectionner un item, appuyez sur la touche Entrée(enter). Pour cocher un item cliqué sur la barre d'espacement.
-
 ##### L’installeur d’Ubuntu, alias Ubiquity, se lance. 
 
 ### Configurer la langue
