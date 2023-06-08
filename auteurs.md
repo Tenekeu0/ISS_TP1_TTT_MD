@@ -84,7 +84,7 @@
 ![snap](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f5632f8e-e0d5-4119-b5ff-f5f66d3453e8)
 
 ##### Patientez! L'INSTALLATION EST EN COURS.
-
+##### Retire le DVD
 ##### Redemarer votre serveur avec la commande: **reboot**
 
 ## Procédure de validation de l'installation.
