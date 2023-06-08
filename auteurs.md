@@ -116,4 +116,6 @@ top
 netstat -tuln
 ```
 #### Vérifier l'interface réseau avec la commande: 
-```ip addr show```
+```
+ip addr show
+```
