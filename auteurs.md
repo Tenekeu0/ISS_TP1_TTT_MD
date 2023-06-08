@@ -36,10 +36,11 @@
 
 ##### L’installeur d’Ubuntu, alias Ubiquity, se lance. 
 
-### Configurer le clavier
+### Configurer la langue
 ##### Sélectionnez la langue Française puis cliquez 'Enter'
 ![langueSysteme](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/22d462da-7d7b-4d86-b635-5b587b45d4e9)
 
+### Configurer le clavier
 ##### Indiquez la disposition de votre clavier : Selectionnez French Canada 
 ![langueClavier](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/46845cec-4086-4fba-ad24-5d2b9538c3dd)
 
