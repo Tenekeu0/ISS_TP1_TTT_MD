@@ -16,16 +16,16 @@
 
 ## Caractérisation de la machine serveur :
 
-#### - Dossier dans vSphere : DFC DS/VM DFC/E23_4371_420W45_ISS_CR/
-##### - Nom hostname
-##### - Un utilisateur avec pour nom d'utilisateur: 'nomDeVotreChoix'
-##### - Un port HTTP : 80 HTTPS : 443
-##### - CPU: 2
-##### - Storage (disque vSphere) : ESXDFC2
-##### - Mémoire 2 Go
-##### - Disque dur : 2 disques, 20 Go chacun en **partitionnement dynamique (Thin provision)**
-##### - Carte réseau : VM DFC2 (réseau 10.100.2.0)
-##### - CD/DVD : ISO ubuntu-22.04-live-server-amd64.iso
+      - Dossier dans vSphere : DFC DS/VM DFC/E23_4371_420W45_ISS_CR/
+      - Nom hostname
+      - Un utilisateur avec pour nom d'utilisateur: 'nomDeVotreChoix'
+      - Un port HTTP : 80 HTTPS : 443
+      - CPU: 2
+      - Storage (disque vSphere) : ESXDFC2
+      - Mémoire 2 Go
+      - Disque dur : 2 disques, 20 Go chacun en **partitionnement dynamique (Thin provision)**
+      - Carte réseau : VM DFC2 (réseau 10.100.2.0)
+       - CD/DVD : ISO ubuntu-22.04-live-server-amd64.iso
 
 ### Une fois la VM créée, lancez la VM et installez le serveur Ubuntu selon les spécifications suivantes :
 
