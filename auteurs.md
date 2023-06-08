@@ -35,6 +35,8 @@
 ##### Pour vous déplacer dans les fenêtres, utiliser votre touche tabulation. Pour sélectionner un item, appuyez sur la touche Entrée(enter). Pour cocher un item cliqué sur la barre d'espacement.
 
 ##### L’installeur d’Ubuntu, alias Ubiquity, se lance. 
+
+### Configurer le clavier
 ##### Sélectionnez la langue Française puis cliquez 'Enter'
 ![langueSysteme](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/22d462da-7d7b-4d86-b635-5b587b45d4e9)
 
