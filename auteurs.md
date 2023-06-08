@@ -106,7 +106,7 @@ lsb_release -a
 ```
 systemctl 
 ```
-(quité avec 'q')
+quité avec 'q'
 #### Vérifier l'utilisation des ressources avec la commande: 
 ```
 top
