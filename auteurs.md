@@ -11,6 +11,7 @@
 ## Sites de référence:
 #### https://doc.ubuntu-fr.org/gestionnaire_de_mises_a_jour#:~:text=Sous%20Kubuntu%20%3A%20Applications%E2%86%92Syst%C3%A8me,%2Dmanager%20%C2%BB%20depuis%20un%20terminal.
 ##### https://github.com/claude-roy/420-W45-SF_4371/blob/main/Exercices/Exercice02_InstallationServeur.md
+#### https://github.com/claude-roy/420-W45-SF_4371/blob/main/Exercices/Exercice03_PriseEnMainSrv.md
 
 # Etapes d'installation d'un serveur
 
