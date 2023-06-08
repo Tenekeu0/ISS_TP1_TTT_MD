@@ -27,8 +27,8 @@
       - Carte réseau : VM DFC2 (réseau 10.100.2.0)
        - CD/DVD : ISO ubuntu-22.04-live-server-amd64.iso
 
-### Une fois la VM créée, lancez la VM et installez le serveur Ubuntu selon les spécifications suivantes :
-
+## Instalation Serveur
+##### installez le serveur Ubuntu selon les spécifications suivantes :
 ##### Pour vous déplacer dans les fenêtres, utiliser votre touche tabulation. Pour sélectionner un item, appuyez sur la touche Entrée(enter). Pour cocher un item cliqué sur la barre d'espacement.
 ##### L’installeur d’Ubuntu, alias Ubiquity, se lance. 
 
