@@ -44,7 +44,7 @@
 ##### Indiquez la disposition de votre clavier : Selectionnez French Canada 
 ![langueClavier](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/46845cec-4086-4fba-ad24-5d2b9538c3dd)
 
-### À l’écran suivant, sélectionnez les options suivantes :
+### Connection réseau
 ##### selectionnez : DHCPv4
 ![reseau](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/360d08d8-26ad-4807-aed4-35dd762174b0)
 
