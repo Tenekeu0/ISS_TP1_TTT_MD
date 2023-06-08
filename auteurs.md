@@ -23,10 +23,10 @@
 ##### - Un port HTTP : 80 HTTPS : 443
 ##### - CPU: 2
 #### - Storage (disque vSphere) : ESXDFC2
-##### - Mémoire 4 Go
+##### - Mémoire 2 Go
 ##### - Disque dur : 2 disques, 20 Go chacun en **partitionnement dynamique (Thin provision)**
 ##### - Carte réseau : VM DFC2 (réseau 10.100.2.0)
-##### - CD/DVD : Ubuntu 22.04 LTS
+##### - CD/DVD : ISO ubuntu-22.04-live-server-amd64.iso
 
 ## Les mises à jour préalables à l'installation et ajout de composants nécessaires
 
@@ -35,25 +35,31 @@
 ##### Pour vous déplacer dans les fenêtres, utiliser votre touche tabulation. Pour sélectionner un item, appuyez sur la touche Entrée(enter). Pour cocher un item cliqué sur la barre d'espacement.
 
 ##### L’installeur d’Ubuntu, alias Ubiquity, se lance. 
-##### Sélectionnez la langue Française puis cliquez sur le bouton Installer maintenant
-
-##### Vous avez également la possibilité de tester Ubuntu sans l’installer en sélectionnant Essayer Ubuntu (les données nécessaires au fonctionnement de l’OS seront copiés dans la mémoire vive) puis de lancer l’installation depuis l’icône sur le Bureau
+##### Sélectionnez la langue Française puis cliquez 'Enter'
+![langueSysteme](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/22d462da-7d7b-4d86-b635-5b587b45d4e9)
 
 ##### Indiquez la disposition de votre clavier : Selectionnez French Canada 
-
+![langueClavier](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/46845cec-4086-4fba-ad24-5d2b9538c3dd)
 
 ### À l’écran suivant, sélectionnez les options suivantes :
-##### Installation normale ou minimale : l’installation minimale installe la base du système, l’environnement graphique, un navigateur web et quelques outils. Et c’est tout ! Environ 80 paquets sont supprimés, parmi lesquels Thunderbird, Transmission, Rythmbox, LibreOffice, Cheese ou Shotwell. L’installation occupe 3,5 Go d’espace, contre 4 Go en moyenne pour l’installation normale.
-##### Télécharger les mises à jour pendant l’installation de Ubuntu.
-##### Installer un logiciel tiers pour le matériel graphique et Wi-Fi et des formats de média supplémentaires : installe le paquet ubuntu-restricted-addons (qui contient des codecs audio et vidéo) et les drivers nécessaires au support des cartes Wi-Fi et cartes graphiques.
+##### selectionnez : DHCPv4
+![reseau](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/360d08d8-26ad-4807-aed4-35dd762174b0)
 
+### Configurer le proxy
+##### on fait rien
+![proxy](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/4dff2853-ca82-48f9-9628-7588a5ffe395)
 
-### - Le Type d'installation selectionner : Ubuntu Server
+### Configure ubuntu archive mirror
+##### on fait rien
+![miroir](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/4e5ecf7c-9238-411a-bd67-ebfa4ad2ae81)
 
-##### En cliquant sur le bouton Fonctions avancées, vous avez la possibilité de chiffrer Ubuntu (avec LVM) et d’utiliser le système de fichiers ZFS
+### Guided storage configuration
+##### on fait rien
+![stoquage](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/c2dc63c4-86ca-4be1-861a-dd13f09d1cda)
 
-##### Sélectionnez votre pays puis faites Continuer.
-
+### Storage configuration
+##### on fait rien
+![comfiquration](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/7a56147d-b612-4717-8235-033de552d6cd)
 
 
 ### - Configuration du profil :
@@ -62,14 +68,19 @@
 ##### Le nom de la machine: hostname
 ##### Nom d'utilisateur : à votre choix
 ##### Mot de passe : à votre choix
+![profil](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/5c730b9f-dd70-4f84-950c-0aff04920b4f)
+
+### Configuration SSH 
+##### Cochez Installer le serveur OpenSSH (taper sur la barre d'espace) 
+#####  N'importez pas la clé SSH.
+![ssh](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f4cc67f8-8135-4963-8254-229ff599d274)
 
 
-### - Configuration SSH : Cochez Installer le serveur OpenSSH (taper sur la barre d'espace) 
-#####  N'importez pas la clé SSH.  
+### Featured Server Snaps <
+##### ne cocher rien et choisit Terminé
+![snap](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f5632f8e-e0d5-4119-b5ff-f5f66d3453e8)
 
-##### -  Featured Server Snaps ne cocher rien et choisit Terminé
-
-##### - Patientez! L'INSTALLATION EST EN COURS.
+##### Patientez! L'INSTALLATION EST EN COURS.
 
 ##### Redemarer votre serveur avec la commande: **reboot**
 
