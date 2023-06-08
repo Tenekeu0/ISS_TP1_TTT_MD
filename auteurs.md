@@ -90,10 +90,12 @@
 ## Procédure de validation de l'installation.
 
 #### Mettre à jour les système avec les commandes:
-#### sudo apt update
-#### sudo apt upgrade
+```
+sudo apt update && sudo apt full-ugrade -y
+```
 
-#### verifier les partitions avec la commande avec la commande: df -h
+#### verifier les partitions avec la commande avec la commande: 
+##### df -h
 #### Vérifier la version d'ubuntu avec la commande: lsb_release -a
 #### Vérifier l'état du système: systemctl avec la commande: status
 #### Vérifier l'utilisation des ressources avec la commande: top
