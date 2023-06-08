@@ -65,7 +65,7 @@
 ![comfiquration](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/7a56147d-b612-4717-8235-033de552d6cd)
 
 
-### - Configuration du profil :
+### Configuration du profil
 
 ##### Votre nom : ;-)
 ##### Le nom de la machine: hostname
