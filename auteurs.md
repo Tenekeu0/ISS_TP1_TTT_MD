@@ -79,7 +79,7 @@
 ![ssh](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f4cc67f8-8135-4963-8254-229ff599d274)
 
 
-### Featured Server Snaps <
+### Featured Server Snaps
 ##### ne cocher rien et choisit Terminé
 ![snap](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f5632f8e-e0d5-4119-b5ff-f5f66d3453e8)
 
