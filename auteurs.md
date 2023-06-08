@@ -95,9 +95,25 @@ sudo apt update && sudo apt full-ugrade -y
 ```
 
 #### verifier les partitions avec la commande avec la commande: 
-##### df -h
-#### Vérifier la version d'ubuntu avec la commande: lsb_release -a
-#### Vérifier l'état du système: systemctl avec la commande: status
-#### Vérifier l'utilisation des ressources avec la commande: top
-#### Vérifier les connexions réseau actives avec la commande: netstat -tuln
-#### Vérifier l'interface réseau avec la commande: ip addr show
+```
+df -h
+```
+#### Vérifier la version d'ubuntu avec la commande: 
+```
+lsb_release -a
+```
+#### Vérifier l'état du système avec la commande : 
+```
+systemctl 
+```
+(quité avec 'q')
+#### Vérifier l'utilisation des ressources avec la commande: 
+```
+top
+```
+#### Vérifier les connexions réseau actives avec la commande: 
+```
+netstat -tuln
+```
+#### Vérifier l'interface réseau avec la commande: 
+```ip addr show```
