@@ -85,7 +85,10 @@
 
 ##### Patientez! L'INSTALLATION EST EN COURS.
 ##### Retire le DVD
-##### Redemarer votre serveur avec la commande: **reboot**
+##### Redemarer votre serveur avec la commande:
+```
+reboot
+```
 
 ## Procédure de validation de l'installation.
 
