@@ -51,7 +51,7 @@ Choisit 'Terminé'
       Votre nom : 'nomDeVotreChoix'
       Le nom de la machine: 'hostname'
       Nom d'utilisateur : 'nomDeVotreChoix'
-      Mot de passe : 'àVotreChoix'
+      Mot de passe : 'deVotreChoix'
 
 ![profil](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/5c730b9f-dd70-4f84-950c-0aff04920b4f)
 
