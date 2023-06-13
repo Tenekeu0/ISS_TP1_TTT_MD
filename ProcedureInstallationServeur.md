@@ -15,7 +15,8 @@
 
 ## Instalation Serveur
 Pour vous déplacer dans les fenêtres, utiliser votre touche tabulation. Pour sélectionner un item, appuyez sur la touche Entrée(enter). Pour cocher un item cliqué sur la barre d'espacement.
-#### L’installeur d’Ubuntu, alias Ubiquity, se lance. Installez le serveur Ubuntu selon les spécifications suivantes.
+
+L’installeur d’Ubuntu, alias Ubiquity, se lance. Installez le serveur Ubuntu selon les spécifications suivantes.
 
 ### Configurer la langue
 Sélectionnez la langue Française puis cliquez 'Enter'
@@ -73,7 +74,8 @@ Ne cocher rien et choisit 'Terminé'
 ```
 reboot
 ```
-## Techniques pour sécuriser votre serveur SSH
+## Mises à jour préalables à l'installation et ajout de composants nécessaires
+### Techniques pour sécuriser votre serveur SSH
 #### Ouvrez le fichier de configuration du serveur sshd avec cette commande
 ```
 sudo nano /etc/ssh/sshd_config
