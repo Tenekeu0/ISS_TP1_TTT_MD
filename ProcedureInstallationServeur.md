@@ -58,7 +58,7 @@ Choisit 'Terminé'
 ### Configuration SSH 
 Cochez Installer le serveur OpenSSH (taper sur la barre d'espace)
 
-#### N'importez pas la clé SSH.
+N'importez pas la clé SSH.
 ![ssh](https://github.com/Tenekeu0/ISS_TP1_TTT_MD/assets/86843996/f4cc67f8-8135-4963-8254-229ff599d274)
 
 
