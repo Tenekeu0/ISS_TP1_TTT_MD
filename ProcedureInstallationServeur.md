@@ -74,9 +74,8 @@ Ne cocher rien et choisit 'Terminé'
 ```
 reboot
 ```
-## Mises à jour préalables à l'installation et ajout de composants nécessaires
-### Techniques pour sécuriser votre serveur SSH
-#### Ouvrez le fichier de configuration du serveur sshd avec cette commande
+## Techniques pour sécuriser votre serveur SSH
+#### Ouvrez le fichier de configuration du serveur ssh avec cette commande
 ```
 sudo nano /etc/ssh/sshd_config
 # ou
